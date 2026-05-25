@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Todo and Notes",
+  "description": "A mobile-optimized todo list organizer and notepad with a modern dashboard and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
